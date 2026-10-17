@@ -1,7 +1,10 @@
 # Logarithmic Warp-Factor Scaling in Galaxy Cluster Mass Discrepancies
 ## Observational Signatures in the Great Attractor and the Bullet Cluster
 
-This folder contains the observational astrophysics research project dedicated to the empirical testing of a zero-free-parameter logarithmic warp-factor scaling law ($F_{\text{warp}} = e^3 \approx 20.0855$) on massive galaxy clusters.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23439435.svg)](https://doi.org/10.5281/zenodo.23439435)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
+This repository contains the observational astrophysics research project dedicated to the empirical testing of a zero-free-parameter logarithmic warp-factor scaling law ($F_{\text{warp}} = e^3 \approx 20.0855$) on massive galaxy clusters.
 
 ---
 

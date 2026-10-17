@@ -1,6 +1,7 @@
 # Observational Test of a Logarithmic Warp-Factor Scaling in Galaxy Cluster Mass Discrepancies: The Great Attractor and the Bullet Cluster
 
 **Author:** Escanor AI Labs (Astrophysics & Computational Cosmology Group)  
+**Permanent DOI:** [https://doi.org/10.5281/zenodo.23439435](https://doi.org/10.5281/zenodo.23439435)  
 **Target Venues:** *Monthly Notices of the Royal Astronomical Society (MNRAS)* / *Physical Review D (PRD)* / *Astronomy & Astrophysics (A&A)* / arXiv: `astro-ph.CO` (Cosmology and Nongalactic Astrophysics)
 
 ---
