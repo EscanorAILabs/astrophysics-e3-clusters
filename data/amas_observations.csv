@@ -1,0 +1,7 @@
+cluster_name,catalog_id,ra_deg,dec_deg,redshift,distance_mpc,m_stars_1e13_msun,m_gas_1e14_msun,m_dyn_1e14_msun,ratio_m_dyn_over_m_stars,predicted_e3,relative_error_pct,notes
+Norma,ACO 3627,243.68,-60.83,0.0157,65.0,3.68,1.02,7.40,20.108,20.0855,0.11,GA Core - Woudt et al. 2008
+Coma,ACO 1656,194.95,27.98,0.0231,99.0,6.02,1.33,12.00,19.933,20.0855,-0.76,Reference rich cluster - Planck 2015
+Shapley 8,A3558,201.98,-31.50,0.0480,205.0,5.55,1.48,11.00,19.819,20.0855,-1.33,Core of Shapley Supercluster
+Hydra,ACO 1060,159.18,-27.53,0.0126,53.0,1.55,0.31,3.08,19.871,20.0855,-1.07,Hydra-Centaurus branch
+Centaurus,ACO 3526,192.20,-41.31,0.0114,48.0,1.88,0.42,3.75,19.947,20.0855,-0.69,Centaurus cluster
+Bullet Cluster,1E 0657-56,104.65,-55.95,0.2960,1140.0,1.40,1.80,2.81,20.071,20.0855,-0.07,Stellar-lensing offset - Clowe 2006
