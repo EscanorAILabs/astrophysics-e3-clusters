@@ -22,8 +22,9 @@ where the effective dynamical mass $M_{\text{dyn}}$ of the collisionless stellar
 ```
 02_brique_astrophysique_e3/
 ├── README.md                           # This document
-├── ARTICLE_ASTROPHYSIQUE_DRAFT.md      # Full academic paper draft (MNRAS / PRD style)
-├── GUIDE_SOUMISSION_ARXIV_ET_REVUES.md # Step-by-step submission guide (arXiv astro-ph.CO)
+├── paper_astrophysics_e3.tex           # LaTeX research manuscript (MNRAS / PRD format)
+├── ARTICLE_ASTROPHYSIQUE_DRAFT.md      # Full academic paper draft
+├── LICENSE                             # Apache 2.0 License (Copyright Escanor AI Labs)
 ├── data/
 │   └── amas_observations.csv          # Catalogued observational data (2MASS, Chandra, Planck)
 └── scripts/
